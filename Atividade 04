@@ -1,5 +1,5 @@
-Nome: Cícera Bruna Silva de Sousa. 
-Atividade n• 4
+#Nome: Cícera Bruna Silva de Sousa. 
+#Atividade n• 4
 
 habituacao = input("O animal está habituado? (S/N) ").upper()
 
